@@ -1,0 +1,26 @@
+{
+  "name": "ps_bank_transfer_fee",
+  "version": "1.0.1",
+  "description": "Playful Sparkle - Bank Transfer Fee",
+  "main": "index.js",
+  "scripts": {
+    "compress": "node compress.js"
+  },
+  "keywords": [
+    "opencart",
+    "oc",
+    "playfulsparkle",
+    "bank transfer",
+    "fee"
+  ],
+  "author": "zsoltoroszlany82 <zsolt.oroszlany@playfulsparkle.com>",
+  "license": "GPL",
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "fs": "^0.0.1-security"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/playfulsparkle/oc3_bank_transfer_fee"
+  }
+}
